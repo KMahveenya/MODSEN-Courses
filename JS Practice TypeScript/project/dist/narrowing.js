@@ -5,4 +5,4 @@ function printElement(element) {
     else
         console.log(element.length);
 }
-printElement("svshd");
+printElement(43483);
